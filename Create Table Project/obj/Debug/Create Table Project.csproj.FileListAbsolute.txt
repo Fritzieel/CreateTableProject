@@ -1,0 +1,6 @@
+c:\users\fritziel\documents\visual studio 2015\Projects\Create Table Project\Create Table Project\bin\Debug\Create Table Project.exe.config
+c:\users\fritziel\documents\visual studio 2015\Projects\Create Table Project\Create Table Project\bin\Debug\Create Table Project.exe
+c:\users\fritziel\documents\visual studio 2015\Projects\Create Table Project\Create Table Project\bin\Debug\Create Table Project.pdb
+c:\users\fritziel\documents\visual studio 2015\Projects\Create Table Project\Create Table Project\obj\Debug\Create Table Project.csprojResolveAssemblyReference.cache
+c:\users\fritziel\documents\visual studio 2015\Projects\Create Table Project\Create Table Project\obj\Debug\Create Table Project.exe
+c:\users\fritziel\documents\visual studio 2015\Projects\Create Table Project\Create Table Project\obj\Debug\Create Table Project.pdb
